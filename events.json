@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "Sunday Worship Service",
+    "date": "2026-03-08",
+    "time": "09:00 AM",
+    "location": "Main Sanctuary",
+    "church": "Harvester Mission Fellowship",
+    "category": "Worship",
+    "description": "Weekly Sunday worship service open to all. Come and experience the presence of God through praise, prayer, and the preaching of His Word."
+  },
+  {
+    "id": 2,
+    "title": "Prayer & Fasting Night",
+    "date": "2026-03-11",
+    "time": "06:00 PM",
+    "location": "Prayer Room",
+    "church": "Harvester Mission Fellowship",
+    "category": "Prayer",
+    "description": "Midweek corporate prayer and fasting. We gather to seek God's face, intercede for our families, nation, and the lost."
+  },
+  {
+    "id": 3,
+    "title": "Youth Night",
+    "date": "2026-03-13",
+    "time": "06:30 PM",
+    "location": "Youth Center",
+    "church": "Harvester Mission Fellowship",
+    "category": "Youth",
+    "description": "A Friday night gathering for the youth — worship, Word, and fellowship. Bring a friend and expect God to move!"
+  },
+  {
+    "id": 4,
+    "title": "Bible Study",
+    "date": "2026-03-17",
+    "time": "10:00 AM",
+    "location": "Fellowship Hall",
+    "church": "Grace Community Church",
+    "category": "Study",
+    "description": "In-depth Bible study and discussion for all ages. This week we continue our series through the book of Romans."
+  },
+  {
+    "id": 5,
+    "title": "Community Outreach",
+    "date": "2026-03-21",
+    "time": "08:00 AM",
+    "location": "Barangay Hall, Paco",
+    "church": "Grace Community Church",
+    "category": "Outreach",
+    "description": "Monthly community feeding and gospel sharing in the urban poor areas of Paco, Manila. Volunteers and donations welcome."
+  },
+  {
+    "id": 6,
+    "title": "Couples Fellowship",
+    "date": "2026-03-21",
+    "time": "05:00 PM",
+    "location": "Fellowship Hall",
+    "church": "Bread of Life Ministries",
+    "category": "Fellowship",
+    "description": "A special evening for married couples — worship, teaching on godly marriage, and dinner together. Register in advance."
+  },
+  {
+    "id": 7,
+    "title": "Holy Communion Sunday",
+    "date": "2026-03-01",
+    "time": "09:30 AM",
+    "location": "Main Sanctuary",
+    "church": "Light of the World Church",
+    "category": "Worship",
+    "description": "First Sunday of the month Communion service. We remember Christ's sacrifice through bread and cup as one body."
+  },
+  {
+    "id": 8,
+    "title": "Men's Prayer Breakfast",
+    "date": "2026-03-28",
+    "time": "07:30 AM",
+    "location": "Rooftop Garden",
+    "church": "Living Word Bible Church",
+    "category": "Prayer",
+    "description": "Monthly gathering for men to pray, share, and encourage one another over breakfast. All men of the church are welcome."
+  },
+  {
+    "id": 9,
+    "title": "Missions Night",
+    "date": "2026-03-27",
+    "time": "07:00 PM",
+    "location": "Main Hall",
+    "church": "Light of the World Church",
+    "category": "Missions",
+    "description": "Last Friday of the month missions update and prayer — hear from our field missionaries and support the Great Commission."
+  },
+  {
+    "id": 10,
+    "title": "Easter Sunday Celebration",
+    "date": "2026-04-05",
+    "time": "06:00 AM",
+    "location": "Main Sanctuary",
+    "church": "Harvester Mission Fellowship",
+    "category": "Special",
+    "description": "Join us for our sunrise Easter celebration! He is risen! Special music, baptisms, and a powerful message on the resurrection of Christ."
+  },
+  {
+    "id": 11,
+    "title": "Good Friday Service",
+    "date": "2026-04-03",
+    "time": "03:00 PM",
+    "location": "Main Sanctuary",
+    "church": "Harvester Mission Fellowship",
+    "category": "Special",
+    "description": "A solemn Good Friday worship service reflecting on the cross of Christ — readings, music, and a message on the finished work of Jesus."
+  },
+  {
+    "id": 12,
+    "title": "Leadership Summit",
+    "date": "2026-04-11",
+    "time": "09:00 AM",
+    "location": "Conference Room A",
+    "church": "Bread of Life Ministries",
+    "category": "Training",
+    "description": "Quarterly leadership development gathering for cell leaders, ministry heads, and volunteers. Theme: Servant Leadership after the heart of Christ."
+  },
+  {
+    "id": 13,
+    "title": "Women's Ministry Gathering",
+    "date": "2026-03-29",
+    "time": "02:00 PM",
+    "location": "Fellowship Hall",
+    "church": "Living Word Bible Church",
+    "category": "Fellowship",
+    "description": "Last Sunday women's get-together for worship, sharing, and encouragement. A safe space for women to grow in faith and friendship."
+  },
+  {
+    "id": 14,
+    "title": "Children's Church",
+    "date": "2026-03-08",
+    "time": "09:00 AM",
+    "location": "Kids Wing",
+    "church": "Light of the World Church",
+    "category": "Children",
+    "description": "Sunday school and kids worship every week — age-appropriate Bible lessons, activities, and songs that make faith come alive for children."
+  },
+  {
+    "id": 15,
+    "title": "ONE Discipleship Group",
+    "date": "2026-03-14",
+    "time": "10:00 AM",
+    "location": "Small Group Rooms",
+    "church": "Victory Christian Fellowship",
+    "category": "Discipleship",
+    "description": "Victory's personal discipleship program where believers are mentored one-on-one or in small groups through the Foundations series."
+  },
+  {
+    "id": 16,
+    "title": "Young Couples Conference",
+    "date": "2026-02-15",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Fellowship",
+    "description": "A special conference for young couples — building godly marriages and families grounded in faith."
+  },
+  {
+    "id": 17,
+    "title": "Worship Team Conference",
+    "date": "2026-02-25",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Training",
+    "description": "A dedicated conference for worship team members to be equipped, trained, and spiritually refreshed for ministry."
+  },
+  {
+    "id": 18,
+    "title": "Holy Spirit Baptism",
+    "date": "2026-02-28",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A special service for the laying on of hands and prayer for the baptism of the Holy Spirit."
+  },
+  {
+    "id": 19,
+    "title": "Water Baptism",
+    "date": "2026-03-01",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Water baptism service for new believers making a public declaration of faith in Jesus Christ."
+  },
+  {
+    "id": 20,
+    "title": "Senior Deacons Conference",
+    "date": "2026-03-08",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Training",
+    "description": "A gathering of senior deacons for prayer, planning, and alignment in church leadership and ministry direction."
+  },
+  {
+    "id": 21,
+    "title": "Crusade in Housing",
+    "date": "2026-03-20",
+    "time": "TBA",
+    "location": "Housing Area",
+    "church": "Agape Church",
+    "category": "Outreach",
+    "description": "Gospel crusade and evangelism outreach held within a housing community. Bringing the message of salvation to the neighborhood."
+  },
+  {
+    "id": 22,
+    "title": "Leaders Conference",
+    "date": "2026-03-22",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Training",
+    "description": "Church-wide leaders conference for ministry leaders to gather, be equipped, and receive vision and direction for the year."
+  },
+  {
+    "id": 23,
+    "title": "HYCS Recognition & Graduation Day",
+    "date": "2026-03-27",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Recognition and graduation ceremony for HYCS students — celebrating academic achievements and faith milestones."
+  },
+  {
+    "id": 24,
+    "title": "Palm Sunday",
+    "date": "2026-03-29",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Worship",
+    "description": "Palm Sunday service commemorating the triumphal entry of Jesus Christ into Jerusalem. Beginning of Holy Week."
+  },
+  {
+    "id": 25,
+    "title": "Mahanaim Camp",
+    "date": "2026-04-02",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Three-day camp running April 2–4 (Thursday to Saturday) for spiritual renewal, fellowship, and encounter with God."
+  },
+  {
+    "id": 26,
+    "title": "Easter Sunday",
+    "date": "2026-04-05",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Resurrection Sunday celebration — He is risen! Join us for a powerful Easter worship service proclaiming the victory of Christ."
+  },
+  {
+    "id": 27,
+    "title": "Kids Camp",
+    "date": "2026-04-15",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Children",
+    "description": "Three-day kids camp running April 15–17 (Wednesday to Friday) — a fun-filled, faith-building experience for children."
+  },
+  {
+    "id": 28,
+    "title": "Agape Church 8th Anniversary",
+    "date": "2026-04-26",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Celebrating 8 years of God's faithfulness! Join us for a special anniversary worship service and celebration."
+  },
+  {
+    "id": 29,
+    "title": "Spirit Team Camp",
+    "date": "2026-04-29",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Three-day Spirit Team Camp running April 29 – May 1 (Wednesday to Friday) for spiritual formation and team building."
+  },
+  {
+    "id": 30,
+    "title": "Mother's Day",
+    "date": "2026-05-10",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A special Sunday service honoring mothers and celebrating the gift of motherhood. All moms are welcome and appreciated."
+  },
+  {
+    "id": 31,
+    "title": "Daily Vacation Bible School (DVBS)",
+    "date": "2026-05-12",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Children",
+    "description": "Three-day DVBS running May 12–14 (Tuesday to Thursday) — a fun and faith-filled Bible school program for children during vacation."
+  },
+  {
+    "id": 32,
+    "title": "San Diego Church 13th Anniversary",
+    "date": "2026-05-17",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "San Diego Church",
+    "category": "Special",
+    "description": "Celebrating 13 years of God's grace and faithfulness over San Diego Church. A joyful worship and anniversary celebration."
+  },
+  {
+    "id": 33,
+    "title": "Non-Stop Worship",
+    "date": "2026-06-12",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Worship",
+    "description": "A continuous, uninterrupted worship night — pressing into the presence of God through extended praise and prayer."
+  },
+  {
+    "id": 34,
+    "title": "2026–2027 HYCS Orientation & Class Opening",
+    "date": "2026-06-16",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Official orientation and class opening for the new 2026–2027 HYCS school year. Welcome to new and returning students!"
+  },
+  {
+    "id": 35,
+    "title": "Wedding",
+    "date": "2026-06-20",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A sacred wedding ceremony celebrating the union of a couple in holy matrimony before God and the church."
+  },
+  {
+    "id": 36,
+    "title": "Father's Day",
+    "date": "2026-06-21",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A special Sunday service honoring fathers and celebrating godly fatherhood in the home and church."
+  },
+  {
+    "id": 37,
+    "title": "Holy Spirit Baptism",
+    "date": "2026-06-27",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A special service for the laying on of hands and prayer for the baptism of the Holy Spirit."
+  },
+  {
+    "id": 38,
+    "title": "Water Baptism",
+    "date": "2026-06-28",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Water baptism service for believers making a public declaration of their faith in Jesus Christ."
+  },
+  {
+    "id": 39,
+    "title": "Wedding",
+    "date": "2026-07-04",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A sacred wedding ceremony celebrating the union of a couple in holy matrimony before God and the church."
+  },
+  {
+    "id": 40,
+    "title": "Memory Verse Competition by Church",
+    "date": "2026-07-05",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "In-church Memory Verse competition — encouraging members to memorize and recite Scripture with faith and confidence."
+  },
+  {
+    "id": 41,
+    "title": "Overall Memory Verse Competition",
+    "date": "2026-07-12",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "The overall Memory Verse competition bringing together participants from multiple churches or groups for the grand finals."
+  },
+  {
+    "id": 42,
+    "title": "Somang Church 3rd Anniversary",
+    "date": "2026-07-26",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Somang Church",
+    "category": "Special",
+    "description": "Celebrating 3 years of Somang Church — honoring God's faithfulness and the growth of this congregation."
+  },
+  {
+    "id": 43,
+    "title": "Teachers Conference",
+    "date": "2026-08-21",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Training",
+    "description": "A dedicated conference for teachers and educators in the church — equipping and encouraging those who teach God's Word."
+  },
+  {
+    "id": 44,
+    "title": "Adult Camp",
+    "date": "2026-08-30",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Two-day adult camp running August 30–31 (Sunday to Monday) for spiritual refreshing, fellowship, and deeper encounter with God."
+  },
+  {
+    "id": 45,
+    "title": "Holy Spirit Baptism",
+    "date": "2026-09-19",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A special service for the laying on of hands and prayer for the baptism of the Holy Spirit."
+  },
+  {
+    "id": 46,
+    "title": "Water Baptism",
+    "date": "2026-09-20",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Water baptism service for believers making a public declaration of their faith in Jesus Christ."
+  },
+  {
+    "id": 47,
+    "title": "Buntong Palay Church 19th Anniversary",
+    "date": "2026-09-27",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Buntong Palay Church",
+    "category": "Special",
+    "description": "Celebrating 19 years of God's faithfulness over Buntong Palay Church — a joyful anniversary worship celebration."
+  },
+  {
+    "id": 48,
+    "title": "Teacher's Appreciation Day",
+    "date": "2026-10-05",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A special Sunday dedicated to honoring and appreciating the teachers and educators of the church and HYCS school."
+  },
+  {
+    "id": 49,
+    "title": "Maganda Church 15th Anniversary",
+    "date": "2026-10-11",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Maganda Church",
+    "category": "Special",
+    "description": "Celebrating 15 years of Maganda Church — honoring God's grace and the journey of faith of this congregation."
+  },
+  {
+    "id": 50,
+    "title": "Central 21st Anniversary",
+    "date": "2026-10-25",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Central Church",
+    "category": "Special",
+    "description": "Celebrating 21 years of Central Church — a milestone anniversary service giving thanks for God's enduring faithfulness."
+  },
+  {
+    "id": 51,
+    "title": "Pastors & Ministers Appreciation Day",
+    "date": "2026-10-25",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A special day set aside to honor and celebrate the pastors and ministers who faithfully serve the congregation."
+  },
+  {
+    "id": 52,
+    "title": "Pastors & Ministers Conference",
+    "date": "2026-10-26",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Training",
+    "description": "Four-day conference for pastors and ministers running October 26–29 (Monday to Thursday) — a time for equipping, vision, and spiritual renewal."
+  },
+  {
+    "id": 53,
+    "title": "Thanksgiving Sunday",
+    "date": "2026-11-15",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Worship",
+    "description": "A special Thanksgiving service to offer praise and gratitude to God for His blessings and faithfulness throughout the year."
+  },
+  {
+    "id": 54,
+    "title": "Soulympic",
+    "date": "2026-11-30",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Soulympic — a faith-themed games and fellowship event bringing the church together in fun, unity, and competitive spirit."
+  },
+  {
+    "id": 55,
+    "title": "Holy Spirit Baptism",
+    "date": "2026-12-05",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "A special service for the laying on of hands and prayer for the baptism of the Holy Spirit."
+  },
+  {
+    "id": 56,
+    "title": "Water Baptism",
+    "date": "2026-12-06",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Water baptism service for believers making a public declaration of their faith in Jesus Christ."
+  },
+  {
+    "id": 57,
+    "title": "Crusade in Housing",
+    "date": "2026-12-08",
+    "time": "TBA",
+    "location": "Housing Area",
+    "church": "Agape Church",
+    "category": "Outreach",
+    "description": "Gospel crusade and evangelism outreach held within a housing community — sharing the Christmas message of hope and salvation."
+  },
+  {
+    "id": 58,
+    "title": "Memory Verse Competition",
+    "date": "2026-12-13",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Memory Verse competition showcasing the Scripture memorization of church members in a festive year-end event."
+  },
+  {
+    "id": 59,
+    "title": "Christmas Worship",
+    "date": "2026-12-20",
+    "time": "TBA",
+    "location": "Main Sanctuary",
+    "church": "Agape Church",
+    "category": "Worship",
+    "description": "A special Christmas worship service celebrating the birth of our Lord and Savior Jesus Christ. Come and adore Him!"
+  },
+  {
+    "id": 60,
+    "title": "Christmas Vacation",
+    "date": "2026-12-28",
+    "time": "TBA",
+    "location": "TBA",
+    "church": "Agape Church",
+    "category": "Special",
+    "description": "Christmas vacation break running December 28–30. Wishing everyone a blessed and restful holiday season."
+  }
+]
